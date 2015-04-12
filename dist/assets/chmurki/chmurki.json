@@ -1,0 +1,60 @@
+{"frames": {
+
+"1.png":
+{
+	"frame": {"x":1019,"y":2,"w":229,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":229,"h":156},
+	"sourceSize": {"w":229,"h":156}
+},
+"2.png":
+{
+	"frame": {"x":353,"y":2,"w":268,"h":161},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":161},
+	"sourceSize": {"w":268,"h":161}
+},
+"3.png":
+{
+	"frame": {"x":1250,"y":2,"w":343,"h":135},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":343,"h":135},
+	"sourceSize": {"w":343,"h":135}
+},
+"4.png":
+{
+	"frame": {"x":623,"y":2,"w":394,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":394,"h":160},
+	"sourceSize": {"w":394,"h":160}
+},
+"5.png":
+{
+	"frame": {"x":2,"y":2,"w":349,"h":179},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":349,"h":179},
+	"sourceSize": {"w":349,"h":179}
+},
+"ptaszki.png":
+{
+	"frame": {"x":1595,"y":2,"w":148,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":89},
+	"sourceSize": {"w":148,"h":89}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chmurki.png",
+	"format": "RGBA8888",
+	"size": {"w":1745,"h":183},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8ff3ab748d847999ebec2d4804985eb5:dbcfffc0c8491e14dce420ab9f4ec909:3114f9865bfbd4f7b7a41d63f2e04519$"
+}
+}
